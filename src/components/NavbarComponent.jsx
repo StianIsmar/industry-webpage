@@ -11,6 +11,8 @@ class NavbarComponent extends Component {
               <Nav className="mr-auto">
                 <Nav.Link href="#home">Om oss</Nav.Link>
                 <Nav.Link href="#link">Prosjekter</Nav.Link>
+                <Nav.Link href="#link">Ledige stillinger</Nav.Link>
+
             
               </Nav>
               <Nav className="mr-auto" className="justify-content-end">
