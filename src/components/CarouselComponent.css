@@ -1,0 +1,18 @@
+.carousel .item {
+    height: 300px;
+}
+
+.item img {
+    position: absolute;
+    left: 0;
+    min-height: 300px;
+    max-height: 200px;
+}
+
+
+/*styling the controls of basic carousel */
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: red;
+}
