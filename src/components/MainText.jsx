@@ -7,10 +7,10 @@ class MainText extends Component {
     render() {
         return (
             <div class="text-left">
-                <Container >
+                <Container white>
                     <Row>
                         <Col>
-                        <h1>Lorem ipsum</h1>
+                        <h1>What we do</h1>
                 <p>Lorem ipsum er opprinnelig et lettere redigert utdrag fra De finibus bonorum et malorum av Cicero. Opprinnelig begynte avsnittet: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
                 <p>Lorem ipsum er opprinnelig et lettere redigert utdrag fra De finibus bonorum et malorum av Cicero. Opprinnelig begynte avsnittet: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
                         </Col>

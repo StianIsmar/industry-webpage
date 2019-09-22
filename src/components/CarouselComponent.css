@@ -5,8 +5,6 @@
 .item img {
     position: absolute;
     left: 0;
-    min-height: 300px;
-    max-height: 200px;
 }
 
 
