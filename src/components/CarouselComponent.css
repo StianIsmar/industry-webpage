@@ -10,7 +10,9 @@
 
 /*styling the controls of basic carousel */
 
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-    background-color: red;
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    width: 30px !important;
+    height: 70px !important;
+    background-color: #333 !important;
 }

@@ -1,7 +1,23 @@
-.text-left h2 h3 h1 {
-    color: #333;
+.article {
+    width: 100%;
+    background-color: white;
 }
 
-.text-left {
-    background-color: white;
+.text {
+    background-color: inherit;
+    color: #333;
+    text-align: left;
+    width: 100%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+p {}
+
+.h1 {
+    margin: 20px;
+    margin-top: 10px;
 }
