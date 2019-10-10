@@ -1,7 +1,7 @@
 # Industry webpage
-## Build project
+### Build project
 `npm i` or `npm install`
-## Run project
+### Run project
 `npm start`
 
 ### Motivation behind project
