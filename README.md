@@ -1,4 +1,5 @@
 # Industry webpage
+Heroku link: https://business-homepage.herokuapp.com/
 ### Build project
 `npm i` or `npm install`
 ### Run project
