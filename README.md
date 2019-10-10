@@ -5,4 +5,4 @@
 `npm start`
 
 ### Motivation behind project
-To create a more professional styled website using React and Bootstrap. 
+To create a more professional looking website using React and Bootstrap. 
